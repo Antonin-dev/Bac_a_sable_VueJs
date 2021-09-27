@@ -1,13 +1,15 @@
-# exo1
+# exoVue
 
-## Project setup
+## Props, Data & VBind
+Utilisation des methodes en calback lié avec vbind
 ```
-npm install
+Component : Display.vue
 ```
 
-### Compiles and hot-reloads for development
+## Méthodes & Data
+Mis en place de divers méthodes linker avec les evenements v-on 
 ```
-npm run serve
+Component Compteur.vue
 ```
 
 ### Compiles and minifies for production
